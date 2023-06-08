@@ -37,6 +37,6 @@ DELETE /books/[isbn]
 
 Features:
 ---
-Uses JSONSchema to validate the creation and updating of book. Displays an error message containing all of the validation errors if book creation or updating fails.
+Uses JSONSchema to validate the creation and updating of a product. Displays an error message containing all of the validation errors if book creation or updating fails.
 
 Integration tests
